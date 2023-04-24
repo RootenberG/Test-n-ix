@@ -1,0 +1,5 @@
+typer==0.7.0
+pytest==7.3.1
+BS4==0.0.1
+aiohttp==3.7.4
+pydantic==1.8.2
